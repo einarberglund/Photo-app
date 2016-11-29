@@ -1,24 +1,6 @@
-# README
+In this project i will experiment with building a website of wich the application can only be accessed through a verified payment and confirmd email. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The application itself is simply going to be a picture upload functionality. 
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Best regards, Einar Berglund. 
